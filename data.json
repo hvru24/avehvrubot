@@ -1,0 +1,40 @@
+{
+    "habits": [
+        {
+            "name": "pickup",
+            "total_count": 0,
+            "max_streak": 0,
+            "current_streak": 0
+        },
+        {
+            "name": "sadhu",
+            "total_count": 0,
+            "max_streak": 0,
+            "current_streak": 0
+        },
+        {
+            "name": "cold shower",
+            "total_count": 0,
+            "max_streak": 0,
+            "current_streak": 0
+        },
+        {
+            "name": "lku at 12:00",
+            "total_count": 0,
+            "max_streak": 0,
+            "current_streak": 0
+        },
+        {
+            "name": "lku at 15:00",
+            "total_count": 0,
+            "max_streak": 0,
+            "current_streak": 0
+        },
+        {
+            "name": "lku at 18:00",
+            "total_count": 0,
+            "max_streak": 0,
+            "current_streak": 0
+        }
+    ]
+}
